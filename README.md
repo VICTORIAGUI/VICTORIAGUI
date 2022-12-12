@@ -1,7 +1,7 @@
 ## Oie! Seja Bem-Vindo!
 - 🌱 Hoje estou estudando JavaScript
 - 📫 Contate-me no email: victoriagui.santos@gmail.com
-- 😄 Pronomes s: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
